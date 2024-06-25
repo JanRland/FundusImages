@@ -10,6 +10,7 @@ The functions used for the preprocessing steps can be found in the Preproc.py fi
 
 <p float="left">
   <img src="res/t0.png" alt="original_image" width="400"/>
-  <img src="res/t1.png" alt="cropped_image" width="400"/>
+  <img src="res/t1.png" alt="cropped_image" width="200"/>
+  <img src="res/t3.png" alt="cropped_image" width="200"/>
 </p>
 
