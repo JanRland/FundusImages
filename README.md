@@ -11,7 +11,6 @@ The functions used for the preprocessing steps can be found in the Preproc.py fi
 <p float="left">
   <img src="res/t0.png" alt="original_image" width="400"/>
   <img src="res/t1.png" alt="cropped_image" width="200"/>
-  <em>Cropped and downsized to 224x224 </em>
   <img src="res/t3.png" alt="equalized_image" width="200"/>
   <em>The left image is the original one, in the middle is cropped and downsized to 224x224 image, and the right image is equalized and randomely rotated.  </em>
 </p>
