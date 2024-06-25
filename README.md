@@ -10,11 +10,10 @@ The functions used for the preprocessing steps can be found in the Preproc.py fi
 
 <p float="left">
   <img src="res/t0.png" alt="original_image" width="400"/>
-  <em>Original Image</em>
   <img src="res/t1.png" alt="cropped_image" width="200"/>
   <em>Cropped and downsized to 224x224 </em>
   <img src="res/t3.png" alt="equalized_image" width="200"/>
-  <em>Equalized and rotated </em>
+  <em>The left image is the original one, in the middle is cropped and downsized to 224x224 image, and the right image is equalized and randomely rotated.  </em>
 </p>
 
 For the color histogram equalization we used a cutoff color intensity of 20, for more information see [In-Depth Exploration of Deep Aging Clocks in Ophthalmology Using the AEyeDB Dataset](TODO).
