@@ -76,7 +76,7 @@ if __name__ == "__main__":
         inputDim=299
     else:
         inputDim=224
-    trainSet=ImageDataset(inputDim, "mages", "train.csv",ids="trainIds_all.npy")
+    trainSet=ImageDataset(inputDim, "images", "train.csv",ids="trainIds_all.npy")
     valSet=ImageDataset(inputDim, "images", "val.csv")
     testSet=ImageDataset(inputDim, "images", "test.csv")
     
