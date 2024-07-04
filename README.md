@@ -42,5 +42,5 @@ Please cite following publication if you use the results:
 MIT license (see license file). 
 
 # Acknowledgments
-This work is funded by hessian.AI in the Connectom project VirtualDoc.
-We express our gratitude to the Philipps-University Marburg for lending us the Rodenstock funduscope. We also wish to thank the students of Heinrich-Heine-University who participated in the study and the ethical committee of the Heinrich Heine University Düsseldorf for their guidance in preparing the study. 
+This work is partially funded by hessian.AI in the Connectom project VirtualDoc.
+We also wish to thank the students of Heinrich-Heine-University who participated in the study. 
